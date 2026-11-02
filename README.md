@@ -33,7 +33,7 @@ A command-line tool written in **C** that reads and edits **ID3v2.3** metadata i
 
 
 
-![before](screenshots/before.jpeg)
+![before](before.jpeg)
 
 
 
@@ -48,7 +48,7 @@ A command-line tool written in **C** that reads and edits **ID3v2.3** metadata i
 
 
 
-![after](screenshots/after.jpeg)
+![after](after.jpeg)
 
 
 
